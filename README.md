@@ -37,8 +37,15 @@ Bellow is the five proposed chanllege. The top image was requested in the chanll
   </div>
   
 ## Chanllege 6):
-Bellow is the six proposed chanllege. The top image was requested in the chanllenge, the bottom one what I did.
+Bellow is the six proposed chanllege. The top image was requested in the chanllenge, the bottom one what I did. The objective of the exercise is to place a responsive image, that is, an image that adapts to the page as we change the size of the browser. This also applies to adapting to the type of device on which the person is opening the browser.
  <div align="center">
     <img align="center" alt="comando" src="https://github.com/PedroBello2023/HTML-CSS-CursoEmVideo/assets/146886458/1d495d8f-9a1a-43aa-9de4-0da836f3b8cd" width =700px/>
     <img align="center" alt="resolução" src="https://github.com/PedroBello2023/HTML-CSS-CursoEmVideo/assets/146886458/fc627aea-7cea-4c9f-bf14-04e1511dffd0" width = 700px/><br>
+  </div>
+
+  ## Chanllege 7):
+Bellow is the seven proposed chanllege. The top image was requested in the chanllenge, the bottom one what I did.
+ <div align="center">
+    <img align="center" alt="comando" src="https://github.com/PedroBello2023/HTML-CSS-CursoEmVideo/assets/146886458/0b420451-0191-45bb-ab24-9aa47783201e" width =700px/>
+    <img align="center" alt="resolução" src="https://github.com/PedroBello2023/HTML-CSS-CursoEmVideo/assets/146886458/224df41d-2860-43d7-b31d-adfb449ea09d" width = 700px/><br>
   </div>
