@@ -1,5 +1,5 @@
 # Exercises-HTML-CSS
- HTML and CSS exercises from the complete HTML and CSS course in the Video Course taught by professor Gustavo Guanabara. Here I also show my challenges made during the course.
+ Repository for exercises, class notes and projects from module 2 of the HTML and CSS course in the video course. Here I also show my challenges made during the course.
 
  ## Challenge 1):
 Below is the first challenge proposed, which consisted of using knowledge from classes on titles, paragraphs and line breaks. In the top image what was proposed by the challenge and in the bottom image the result I obtained.
