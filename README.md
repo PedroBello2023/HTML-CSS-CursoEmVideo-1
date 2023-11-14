@@ -59,3 +59,12 @@ Bellow is the eigth proposed chanllege. The top image was requested in the chanl
     <img align="center" alt="resolução" src="https://github.com/PedroBello2023/HTML-CSS-CursoEmVideo/assets/146886458/ce7eff55-1b82-46d3-a5b3-5b2b0c1b4556" width =700px/><br>
     <img align="center" alt="resolução" src="https://github.com/PedroBello2023/HTML-CSS-CursoEmVideo/assets/146886458/f57f3c87-dfee-4fec-9faf-975e6cccee27" width =700px/>
   </div>
+
+   ## Chanllege 9):
+Bellow is the nine proposed chanllege. The top image was requested in the chanllenge, the bottom one what I did. the third image is not the same as the second. It shows that when passing the cursor over the image it highlights the image.
+ <div align="center">
+    <img align="center" alt="comando" src="https://github.com/PedroBello2023/HTML-CSS-CursoEmVideo/assets/146886458/df932772-4630-43f4-86ff-a3a71fb4125d" width = 700px/><br>
+    <img align="center" alt="resolução" src="https://github.com/PedroBello2023/HTML-CSS-CursoEmVideo/assets/146886458/6a0fcd59-bffa-455b-855d-07c18f5b920f" width =700px/><br>
+    <img align="center" alt="resolução" src="https://github.com/PedroBello2023/HTML-CSS-CursoEmVideo/assets/146886458/3f74e67a-d850-4289-9b86-81bd4904c64f" width =700px/><br>
+    <img align="center" alt="resolução" src="https://github.com/PedroBello2023/HTML-CSS-CursoEmVideo/assets/146886458/428941d4-180a-466a-81da-554b76821e20" width =700px/>
+  </div>
